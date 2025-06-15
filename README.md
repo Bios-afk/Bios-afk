@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Félix Korbendau
 
 🎓 Full-Stack Developer in training at [Le Wagon](https://www.lewagon.com)  
-🎯 Starting a Bachelor's degree at EPSI Bordeaux in October 2025  
 📍 Based in Bordeaux, France  
 💼 Former workshop manager in the printing industry, now transitioning into tech
 
