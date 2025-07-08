@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Félix Korbendau
+# 👋 Hello, I'm Félix K
 
 🎓 Full-Stack Developer in training at [Le Wagon](https://www.lewagon.com)  
 📍 Based in Bordeaux, France  
